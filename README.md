@@ -30,12 +30,12 @@ Square-Meter предоставляет удобный интерфейс для
 
 1. Клонируйте репозиторий:
    
-   git clone https://github.com/VladimirBogomol/Square-Meter
+   git clone https://github.com/VladimirBogomol/square-meter
    
 
 2. Перейдите в директорию проекта:
    
-   cd Square-Meter
+   cd square-meter
 
 3. Убедитесь, что у вас установлен Node.js (https://nodejs.org/).
 
